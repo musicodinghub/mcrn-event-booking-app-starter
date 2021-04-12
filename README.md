@@ -9,3 +9,6 @@ yarn install
 ```
 yarn ios
 ```
+
+### Demo
+[![Watch the video](https://tva1.sinaimg.cn/large/008eGmZEgy1gph8i7901tj30zk0k0n93.jpg)](https://youtu.be/RIxe7DQE3Pk)
